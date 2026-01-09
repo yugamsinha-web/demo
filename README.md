@@ -1,4 +1,5 @@
 # demo
 This my first git repository
 <br>
-author-Yugam Sinha
+author-Yugam Sinha(nit dgp)
+
